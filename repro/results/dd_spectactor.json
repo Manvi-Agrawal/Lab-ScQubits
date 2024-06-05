@@ -1,0 +1,84 @@
+{
+  "histogram": [
+    {
+      "position": "0000",
+      "probability": 0.43998
+    },
+    {
+      "position": "0001",
+      "probability": 0.08964
+    },
+    {
+      "position": "0010",
+      "probability": 0.08692
+    },
+    {
+      "position": "0011",
+      "probability": 0.01771
+    },
+    {
+      "position": "0100",
+      "probability": 0.1385
+    },
+    {
+      "position": "0101",
+      "probability": 0.02837
+    },
+    {
+      "position": "0110",
+      "probability": 0.02752
+    },
+    {
+      "position": "0111",
+      "probability": 0.00564
+    },
+    {
+      "position": "1000",
+      "probability": 0.08729
+    },
+    {
+      "position": "1001",
+      "probability": 0.01778
+    },
+    {
+      "position": "1010",
+      "probability": 0.01724
+    },
+    {
+      "position": "1011",
+      "probability": 0.00351
+    },
+    {
+      "position": "1100",
+      "probability": 0.02763
+    },
+    {
+      "position": "1101",
+      "probability": 0.00566
+    },
+    {
+      "position": "1110",
+      "probability": 0.00549
+    },
+    {
+      "position": "1111",
+      "probability": 0.00113
+    }
+  ],
+  "operator_values": {},
+  "status": "succeed",
+  "times": [
+    30.0,
+    150.0,
+    270.0,
+    390.0,
+    510.0,
+    630.0,
+    750.0,
+    870.0,
+    990.0,
+    1110.0,
+    1230.0,
+    1260.0
+  ]
+}
