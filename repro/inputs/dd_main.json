@@ -1,0 +1,1883 @@
+{
+    "coupling_config": {
+        "exchange": [
+            {
+                "J": 0.0038,
+                "qudits": [
+                    1,
+                    2
+                ]
+            },
+            {
+                "J": 0.0038,
+                "qudits": [
+                    2,
+                    3
+                ]
+            },
+            {
+                "J": 0.0038,
+                "qudits": [
+                    2,
+                    4
+                ]
+            }
+        ],
+        "parasitic": [
+            {
+                "operator": [
+                    "Z",
+                    "Z"
+                ],
+                "strength": 0.00005,
+                "qudits": [
+                    1,
+                    2
+                ]
+            },
+            {
+                "operator": [
+                    "Z",
+                    "Z"
+                ],
+                "strength": 0.00005,
+                "qudits": [
+                    2,
+                    3
+                ]
+            },
+            {
+                "operator": [
+                    "Z",
+                    "Z"
+                ],
+                "strength": 0.00005,
+                "qudits": [
+                    2,
+                    4
+                ]
+            }
+        ]
+    },
+    "qudits": [
+        1,
+        2,
+        3,
+        4
+    ],
+    "circuit": [
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_1"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_1"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_1"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_1"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_1"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_1"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_1"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_1"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_1"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_1"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_1"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_1"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_1"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_1"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_1"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_1"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_1"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_1"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_1"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_1"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_1"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_1"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_1"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_1"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_1"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_1"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_1"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_1"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_1"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_1"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_1"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_1"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_1"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_1"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_1"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_1"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_1"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_1"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_1"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_1"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_1"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_1"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_3"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_3"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_3"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_3"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_3"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_3"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_3"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_3"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_3"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_3"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_3"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_3"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_3"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_3"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_3"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_3"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_3"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_3"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_3"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_3"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_3"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_3"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_3"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_3"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_3"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_3"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_3"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_3"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_3"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_3"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_3"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_3"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_3"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_3"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_3"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_3"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_3"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_3"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_3"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_3"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_3"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_3"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "theta": 1.5707963267948966,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RXGate",
+            "pulse": {
+                "x_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.01556915187994301,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 3.141592653589793,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RXGate",
+            "pulse": {
+                "x_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.03113830375988602,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 3.141592653589793,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RYGate",
+            "pulse": {
+                "y_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.03113830375988602,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 3.141592653589793,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RXGate",
+            "pulse": {
+                "x_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.03113830375988602,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 3.141592653589793,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RYGate",
+            "pulse": {
+                "y_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.03113830375988602,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 3.141592653589793,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RXGate",
+            "pulse": {
+                "x_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.03113830375988602,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 3.141592653589793,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RYGate",
+            "pulse": {
+                "y_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.03113830375988602,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 3.141592653589793,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RXGate",
+            "pulse": {
+                "x_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.03113830375988602,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 3.141592653589793,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RYGate",
+            "pulse": {
+                "y_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.03113830375988602,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 3.141592653589793,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RXGate",
+            "pulse": {
+                "x_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.03113830375988602,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 3.141592653589793,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RYGate",
+            "pulse": {
+                "y_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.03113830375988602,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 3.141592653589793,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RXGate",
+            "pulse": {
+                "x_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.03113830375988602,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 3.141592653589793,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RYGate",
+            "pulse": {
+                "y_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.03113830375988602,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 3.141592653589793,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RXGate",
+            "pulse": {
+                "x_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.03113830375988602,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 3.141592653589793,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RYGate",
+            "pulse": {
+                "y_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.03113830375988602,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 3.141592653589793,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RXGate",
+            "pulse": {
+                "x_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.03113830375988602,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 3.141592653589793,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RYGate",
+            "pulse": {
+                "y_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.03113830375988602,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 3.141592653589793,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RXGate",
+            "pulse": {
+                "x_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.03113830375988602,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 3.141592653589793,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RYGate",
+            "pulse": {
+                "y_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.03113830375988602,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 3.141592653589793,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RXGate",
+            "pulse": {
+                "x_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.03113830375988602,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 3.141592653589793,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RYGate",
+            "pulse": {
+                "y_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.03113830375988602,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 3.141592653589793,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RXGate",
+            "pulse": {
+                "x_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.03113830375988602,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 3.141592653589793,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RYGate",
+            "pulse": {
+                "y_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.03113830375988602,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 3.141592653589793,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RXGate",
+            "pulse": {
+                "x_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.03113830375988602,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 3.141592653589793,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RYGate",
+            "pulse": {
+                "y_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.03113830375988602,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 3.141592653589793,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RXGate",
+            "pulse": {
+                "x_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.03113830375988602,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 3.141592653589793,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RYGate",
+            "pulse": {
+                "y_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.03113830375988602,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 3.141592653589793,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RXGate",
+            "pulse": {
+                "x_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.03113830375988602,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 3.141592653589793,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RYGate",
+            "pulse": {
+                "y_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.03113830375988602,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 3.141592653589793,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RXGate",
+            "pulse": {
+                "x_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.03113830375988602,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 3.141592653589793,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RYGate",
+            "pulse": {
+                "y_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.03113830375988602,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 3.141592653589793,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RXGate",
+            "pulse": {
+                "x_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.03113830375988602,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 3.141592653589793,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RYGate",
+            "pulse": {
+                "y_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.03113830375988602,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 3.141592653589793,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RXGate",
+            "pulse": {
+                "x_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.03113830375988602,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 3.141592653589793,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RYGate",
+            "pulse": {
+                "y_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.03113830375988602,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 3.141592653589793,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RXGate",
+            "pulse": {
+                "x_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.03113830375988602,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 3.141592653589793,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RYGate",
+            "pulse": {
+                "y_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.03113830375988602,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 3.141592653589793,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RXGate",
+            "pulse": {
+                "x_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.03113830375988602,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 3.141592653589793,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RYGate",
+            "pulse": {
+                "y_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.03113830375988602,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 3.141592653589793,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RXGate",
+            "pulse": {
+                "x_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.03113830375988602,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 3.141592653589793,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RYGate",
+            "pulse": {
+                "y_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.03113830375988602,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": -1.5707963267948966,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RXGate",
+            "pulse": {
+                "x_drive": {
+                    "sigma": 7.5,
+                    "amp": -0.01556915187994301,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_4"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_4"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_4"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_4"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_4"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_4"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_4"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_4"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_4"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_4"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_4"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_4"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_4"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_4"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_4"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_4"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_4"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_4"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_4"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_4"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_4"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_4"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_4"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_4"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_4"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_4"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_4"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_4"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_4"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_4"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_4"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_4"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_4"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_4"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_4"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_4"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_4"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_4"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_4"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_4"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_4"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        },
+        {
+            "duration": 30,
+            "qudit": [
+                "qudit_4"
+            ],
+            "gate": "IGate",
+            "pulse": {}
+        }
+    ],
+    "qudits_config": {
+        "qudit_4": {
+            "num_lvls": 2,
+            "driving_freq": 5.1637,
+            "anharmonicity": -0.3351,
+            "interaction": [
+                {
+                    "coupling": "Z",
+                    "bath": {
+                        "T": 20,
+                        "fc": 2,
+                        "eta": 0.000011764967334034104,
+                        "type": "ohmic"
+                    }
+                },
+                {
+                    "coupling": "X",
+                    "bath": {
+                        "T": 20,
+                        "fc": 2,
+                        "eta": 0.000008823725500525577,
+                        "type": "ohmic"
+                    }
+                },
+                {
+                    "coupling": "Y",
+                    "bath": {
+                        "T": 20,
+                        "fc": 2,
+                        "eta": 0.000008823725500525577,
+                        "type": "ohmic"
+                    }
+                }
+            ],
+            "freq": 5.1637
+        },
+        "qudit_3": {
+            "num_lvls": 2,
+            "driving_freq": 5.322,
+            "anharmonicity": -0.3323,
+            "interaction": [
+                {
+                    "coupling": "Z",
+                    "bath": {
+                        "T": 20,
+                        "fc": 2,
+                        "eta": 0.000011764967334034104,
+                        "type": "ohmic"
+                    }
+                },
+                {
+                    "coupling": "X",
+                    "bath": {
+                        "T": 20,
+                        "fc": 2,
+                        "eta": 0.000008823725500525577,
+                        "type": "ohmic"
+                    }
+                },
+                {
+                    "coupling": "Y",
+                    "bath": {
+                        "T": 20,
+                        "fc": 2,
+                        "eta": 0.000008823725500525577,
+                        "type": "ohmic"
+                    }
+                }
+            ],
+            "freq": 5.322
+        },
+        "qudit_1": {
+            "num_lvls": 2,
+            "driving_freq": 5.3006,
+            "anharmonicity": -0.3315,
+            "interaction": [
+                {
+                    "coupling": "Z",
+                    "bath": {
+                        "T": 20,
+                        "fc": 2,
+                        "eta": 0.000011764967334034104,
+                        "type": "ohmic"
+                    }
+                },
+                {
+                    "coupling": "X",
+                    "bath": {
+                        "T": 20,
+                        "fc": 2,
+                        "eta": 0.000008823725500525577,
+                        "type": "ohmic"
+                    }
+                },
+                {
+                    "coupling": "Y",
+                    "bath": {
+                        "T": 20,
+                        "fc": 2,
+                        "eta": 0.000008823725500525577,
+                        "type": "ohmic"
+                    }
+                }
+            ],
+            "freq": 5.3006
+        },
+        "qudit_2": {
+            "num_lvls": 2,
+            "driving_freq": 5.0806,
+            "anharmonicity": -0.3192,
+            "interaction": [
+                {
+                    "coupling": "Z",
+                    "bath": {
+                        "T": 20,
+                        "fc": 2,
+                        "eta": 0.000011764967334034104,
+                        "type": "ohmic"
+                    }
+                },
+                {
+                    "coupling": "X",
+                    "bath": {
+                        "T": 20,
+                        "fc": 2,
+                        "eta": 0.000008823725500525577,
+                        "type": "ohmic"
+                    }
+                },
+                {
+                    "coupling": "Y",
+                    "bath": {
+                        "T": 20,
+                        "fc": 2,
+                        "eta": 0.000008823725500525577,
+                        "type": "ohmic"
+                    }
+                }
+            ],
+            "freq": 5.0806
+        }
+    },
+    "solver_opt": {
+        "saveat": {
+            "data": [
+                "state"
+            ],
+            "times": [
+                30,
+                150,
+                270,
+                390,
+                510,
+                630,
+                750,
+                870,
+                990,
+                1110,
+                1230,
+                1260
+            ]
+        },
+        "int_atol": 0.000001,
+        "int_rtol": 0.000001,
+        "ode_opt": {
+            "nsteps": 300,
+            "alg": "LinearExponential"
+        },
+        "type": "redfield",
+        "unitary_ode_opt": {
+            "rtol": 0.000001,
+            "atol": 0.000001,
+            "alg": "Tsit5"
+        }
+    }
+}
