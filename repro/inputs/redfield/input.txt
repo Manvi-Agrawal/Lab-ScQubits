@@ -1,0 +1,1 @@
+[ Iz(+pi) , Sz(+pi) , Sy(-pi/2) , Sx(+pi/2) , Sy(+pi/2) , Iy(-pi/2) , Ix(+pi/2) , Iy(+pi/2) , Iy(+pi/2) , Ix(+pi/2) , Ix(+pi/2) , Sy(+pi/2) , Sx(+pi/2) , Sx(+pi/2) , Iz(+pi) , Sz(+pi) , Sy(-pi/2) , Sx(-pi/2) , Sy(+pi/2) , Iy(-pi/2) , Ix(-pi/2) , Iy(+pi/2) , Iy(+pi/2) , Ix(+pi/2) , Ix(+pi/2) , Sy(+pi/2) , Sx(+pi/2) , Sx(+pi/2)]
