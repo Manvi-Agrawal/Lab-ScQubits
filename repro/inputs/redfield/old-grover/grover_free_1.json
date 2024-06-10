@@ -21,13 +21,6 @@
                     2,
                     4
                 ]
-            },
-            {
-                "J": 0.0038,
-                "qudits": [
-                    4,
-                    5
-                ]
             }
         ],
         "parasitic": [
@@ -63,17 +56,6 @@
                     2,
                     4
                 ]
-            },
-            {
-                "operator": [
-                    "Z",
-                    "Z"
-                ],
-                "strength": 5e-05,
-                "qudits": [
-                    4,
-                    5
-                ]
             }
         ]
     },
@@ -81,8 +63,7 @@
         1,
         2,
         3,
-        4,
-        5
+        4
     ],
     "circuit": [
         {
@@ -962,204 +943,9 @@
             ],
             "gate": "IGate",
             "pulse": {}
-        },
-        {
-            "duration": 30,
-            "qudit": [
-                "qudit_5"
-            ],
-            "gate": "IGate",
-            "pulse": {}
-        },
-        {
-            "duration": 30,
-            "qudit": [
-                "qudit_5"
-            ],
-            "gate": "IGate",
-            "pulse": {}
-        },
-        {
-            "duration": 30,
-            "qudit": [
-                "qudit_5"
-            ],
-            "gate": "IGate",
-            "pulse": {}
-        },
-        {
-            "duration": 30,
-            "qudit": [
-                "qudit_5"
-            ],
-            "gate": "IGate",
-            "pulse": {}
-        },
-        {
-            "duration": 30,
-            "qudit": [
-                "qudit_5"
-            ],
-            "gate": "IGate",
-            "pulse": {}
-        },
-        {
-            "duration": 30,
-            "qudit": [
-                "qudit_5"
-            ],
-            "gate": "IGate",
-            "pulse": {}
-        },
-        {
-            "duration": 30,
-            "qudit": [
-                "qudit_5"
-            ],
-            "gate": "IGate",
-            "pulse": {}
-        },
-        {
-            "duration": 30,
-            "qudit": [
-                "qudit_5"
-            ],
-            "gate": "IGate",
-            "pulse": {}
-        },
-        {
-            "duration": 30,
-            "qudit": [
-                "qudit_5"
-            ],
-            "gate": "IGate",
-            "pulse": {}
-        },
-        {
-            "duration": 30,
-            "qudit": [
-                "qudit_5"
-            ],
-            "gate": "IGate",
-            "pulse": {}
-        },
-        {
-            "duration": 30,
-            "qudit": [
-                "qudit_5"
-            ],
-            "gate": "IGate",
-            "pulse": {}
-        },
-        {
-            "duration": 30,
-            "qudit": [
-                "qudit_5"
-            ],
-            "gate": "IGate",
-            "pulse": {}
-        },
-        {
-            "duration": 30,
-            "qudit": [
-                "qudit_5"
-            ],
-            "gate": "IGate",
-            "pulse": {}
-        },
-        {
-            "duration": 30,
-            "qudit": [
-                "qudit_5"
-            ],
-            "gate": "IGate",
-            "pulse": {}
-        },
-        {
-            "duration": 30,
-            "qudit": [
-                "qudit_5"
-            ],
-            "gate": "IGate",
-            "pulse": {}
-        },
-        {
-            "duration": 30,
-            "qudit": [
-                "qudit_5"
-            ],
-            "gate": "IGate",
-            "pulse": {}
-        },
-        {
-            "duration": 30,
-            "qudit": [
-                "qudit_5"
-            ],
-            "gate": "IGate",
-            "pulse": {}
-        },
-        {
-            "duration": 30,
-            "qudit": [
-                "qudit_5"
-            ],
-            "gate": "IGate",
-            "pulse": {}
-        },
-        {
-            "duration": 30,
-            "qudit": [
-                "qudit_5"
-            ],
-            "gate": "IGate",
-            "pulse": {}
-        },
-        {
-            "duration": 30,
-            "qudit": [
-                "qudit_5"
-            ],
-            "gate": "IGate",
-            "pulse": {}
         }
     ],
     "qudits_config": {
-        "qudit_5": {
-            "num_lvls": 2,
-            "driving_freq": 5.0524,
-            "anharmonicity": -0.3193,
-            "interaction": [
-                {
-                    "coupling": "Z",
-                    "bath": {
-                        "T": 20,
-                        "fc": 2,
-                        "eta": 1.1764967334034104e-05,
-                        "type": "ohmic"
-                    }
-                },
-                {
-                    "coupling": "X",
-                    "bath": {
-                        "T": 20,
-                        "fc": 2,
-                        "eta": 8.823725500525577e-06,
-                        "type": "ohmic"
-                    }
-                },
-                {
-                    "coupling": "Y",
-                    "bath": {
-                        "T": 20,
-                        "fc": 2,
-                        "eta": 8.823725500525577e-06,
-                        "type": "ohmic"
-                    }
-                }
-            ],
-            "freq": 5.0524
-        },
         "qudit_4": {
             "num_lvls": 2,
             "driving_freq": 5.3026,
