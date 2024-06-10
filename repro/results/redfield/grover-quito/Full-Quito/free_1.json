@@ -1,0 +1,142 @@
+{
+  "histogram": [
+    {
+      "position": "00000",
+      "probability": 0.01159
+    },
+    {
+      "position": "00001",
+      "probability": -0.0
+    },
+    {
+      "position": "00010",
+      "probability": 0.0982
+    },
+    {
+      "position": "00011",
+      "probability": -0.0
+    },
+    {
+      "position": "00100",
+      "probability": -0.0
+    },
+    {
+      "position": "00101",
+      "probability": 0.0
+    },
+    {
+      "position": "00110",
+      "probability": -0.0
+    },
+    {
+      "position": "00111",
+      "probability": 0.0
+    },
+    {
+      "position": "01000",
+      "probability": 0.09388
+    },
+    {
+      "position": "01001",
+      "probability": -0.0
+    },
+    {
+      "position": "01010",
+      "probability": 0.79636
+    },
+    {
+      "position": "01011",
+      "probability": 0.0
+    },
+    {
+      "position": "01100",
+      "probability": -0.0
+    },
+    {
+      "position": "01101",
+      "probability": 0.0
+    },
+    {
+      "position": "01110",
+      "probability": 0.0
+    },
+    {
+      "position": "01111",
+      "probability": 0.0
+    },
+    {
+      "position": "10000",
+      "probability": -0.0
+    },
+    {
+      "position": "10001",
+      "probability": 0.0
+    },
+    {
+      "position": "10010",
+      "probability": -0.0
+    },
+    {
+      "position": "10011",
+      "probability": 0.0
+    },
+    {
+      "position": "10100",
+      "probability": 0.0
+    },
+    {
+      "position": "10101",
+      "probability": -0.0
+    },
+    {
+      "position": "10110",
+      "probability": 0.0
+    },
+    {
+      "position": "10111",
+      "probability": -0.0
+    },
+    {
+      "position": "11000",
+      "probability": -0.0
+    },
+    {
+      "position": "11001",
+      "probability": 0.0
+    },
+    {
+      "position": "11010",
+      "probability": 0.0
+    },
+    {
+      "position": "11011",
+      "probability": 0.0
+    },
+    {
+      "position": "11100",
+      "probability": 0.0
+    },
+    {
+      "position": "11101",
+      "probability": -0.0
+    },
+    {
+      "position": "11110",
+      "probability": 0.0
+    },
+    {
+      "position": "11111",
+      "probability": -0.0
+    }
+  ],
+  "operator_values": {},
+  "status": "succeed",
+  "times": [
+    30.0,
+    150.0,
+    270.0,
+    390.0,
+    510.0,
+    600.0
+  ]
+}
