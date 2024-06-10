@@ -2268,8 +2268,8 @@
     "qudits_config": {
         "qudit_4": {
             "num_lvls": 2,
-            "driving_freq": 5.3026,
-            "anharmonicity": -0.3312,
+            "driving_freq": 5.1637,
+            "anharmonicity": -0.3351,
             "interaction": [
                 {
                     "coupling": "Z",
@@ -2299,12 +2299,12 @@
                     }
                 }
             ],
-            "freq": 5.3026
+            "freq": 5.1637
         },
         "qudit_3": {
             "num_lvls": 2,
-            "driving_freq": 5.2474,
-            "anharmonicity": -0.3336,
+            "driving_freq": 5.322,
+            "anharmonicity": -0.3323,
             "interaction": [
                 {
                     "coupling": "Z",
@@ -2334,12 +2334,12 @@
                     }
                 }
             ],
-            "freq": 5.2474
+            "freq": 5.322
         },
         "qudit_1": {
             "num_lvls": 2,
-            "driving_freq": 5.0297,
-            "anharmonicity": -0.3357,
+            "driving_freq": 5.3006,
+            "anharmonicity": -0.3315,
             "interaction": [
                 {
                     "coupling": "Z",
@@ -2369,12 +2369,12 @@
                     }
                 }
             ],
-            "freq": 5.0297
+            "freq": 5.3006
         },
         "qudit_2": {
             "num_lvls": 2,
-            "driving_freq": 5.1277,
-            "anharmonicity": -0.3183,
+            "driving_freq": 5.0806,
+            "anharmonicity": -0.3192,
             "interaction": [
                 {
                     "coupling": "Z",
@@ -2404,7 +2404,7 @@
                     }
                 }
             ],
-            "freq": 5.1277
+            "freq": 5.0806
         }
     },
     "solver_opt": {
