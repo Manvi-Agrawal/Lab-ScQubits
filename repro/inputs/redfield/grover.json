@@ -21,6 +21,13 @@
                     2,
                     4
                 ]
+            },
+            {
+                "J": 0.0038,
+                "qudits": [
+                    4,
+                    5
+                ]
             }
         ],
         "parasitic": [
@@ -56,6 +63,17 @@
                     2,
                     4
                 ]
+            },
+            {
+                "operator": [
+                    "Z",
+                    "Z"
+                ],
+                "strength": 5e-05,
+                "qudits": [
+                    4,
+                    5
+                ]
             }
         ]
     },
@@ -63,7 +81,8 @@
         1,
         2,
         3,
-        4
+        4,
+        5
     ],
     "circuit": [
         {
@@ -488,6 +507,41 @@
         }
     ],
     "qudits_config": {
+        "qudit_5": {
+            "num_lvls": 2,
+            "driving_freq": 5.092,
+            "anharmonicity": -0.3345,
+            "interaction": [
+                {
+                    "coupling": "Z",
+                    "bath": {
+                        "T": 20,
+                        "fc": 2,
+                        "eta": 1.1764967334034104e-05,
+                        "type": "ohmic"
+                    }
+                },
+                {
+                    "coupling": "X",
+                    "bath": {
+                        "T": 20,
+                        "fc": 2,
+                        "eta": 8.823725500525577e-06,
+                        "type": "ohmic"
+                    }
+                },
+                {
+                    "coupling": "Y",
+                    "bath": {
+                        "T": 20,
+                        "fc": 2,
+                        "eta": 8.823725500525577e-06,
+                        "type": "ohmic"
+                    }
+                }
+            ],
+            "freq": 5.092
+        },
         "qudit_4": {
             "num_lvls": 2,
             "driving_freq": 5.3026,
