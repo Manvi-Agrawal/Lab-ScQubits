@@ -7851,8 +7851,8 @@
     "qudits_config": {
         "qudit_5": {
             "num_lvls": 2,
-            "driving_freq": 5.0524,
-            "anharmonicity": -0.3193,
+            "driving_freq": 5.0920,
+            "anharmonicity": -0.3345,
             "interaction": [
                 {
                     "coupling": "Z",
@@ -7882,7 +7882,7 @@
                     }
                 }
             ],
-            "freq": 5.0524
+            "freq": 5.0920
         },
         "qudit_4": {
             "num_lvls": 2,
