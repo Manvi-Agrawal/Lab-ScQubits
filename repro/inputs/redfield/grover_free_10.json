@@ -95,7 +95,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -110,7 +110,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -125,7 +125,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -140,7 +140,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -155,7 +155,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -170,217 +170,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
-        },
-        {
-            "duration": 30,
-            "theta": 3.141592653589793,
-            "qudit": [
-                "qudit_2"
-            ],
-            "gate": "RZGate",
-            "pulse": {
-                "z_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
-        },
-        {
-            "duration": 30,
-            "theta": 3.141592653589793,
-            "qudit": [
-                "qudit_4"
-            ],
-            "gate": "RZGate",
-            "pulse": {
-                "z_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
-        },
-        {
-            "duration": 30,
-            "theta": -1.5707963267948966,
-            "qudit": [
-                "qudit_4"
-            ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
-        },
-        {
-            "duration": 30,
-            "theta": 1.5707963267948966,
-            "qudit": [
-                "qudit_4"
-            ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
-        },
-        {
-            "duration": 30,
-            "theta": 1.5707963267948966,
-            "qudit": [
-                "qudit_4"
-            ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
-        },
-        {
-            "duration": 30,
-            "theta": -1.5707963267948966,
-            "qudit": [
-                "qudit_2"
-            ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
-        },
-        {
-            "duration": 30,
-            "theta": 1.5707963267948966,
-            "qudit": [
-                "qudit_2"
-            ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
-        },
-        {
-            "duration": 30,
-            "theta": 1.5707963267948966,
-            "qudit": [
-                "qudit_2"
-            ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
-        },
-        {
-            "duration": 30,
-            "theta": 1.5707963267948966,
-            "qudit": [
-                "qudit_2"
-            ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
-        },
-        {
-            "duration": 30,
-            "theta": 1.5707963267948966,
-            "qudit": [
-                "qudit_2"
-            ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
-        },
-        {
-            "duration": 30,
-            "theta": 1.5707963267948966,
-            "qudit": [
-                "qudit_2"
-            ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
-        },
-        {
-            "duration": 30,
-            "theta": 1.5707963267948966,
-            "qudit": [
-                "qudit_4"
-            ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
-        },
-        {
-            "duration": 30,
-            "theta": 1.5707963267948966,
-            "qudit": [
-                "qudit_4"
-            ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
-        },
-        {
-            "duration": 30,
-            "theta": 1.5707963267948966,
-            "qudit": [
-                "qudit_4"
-            ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -425,14 +215,14 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": -0.01556915187994301,
                     "type": "gaussian"
                 }
             }
         },
         {
             "duration": 30,
-            "theta": -1.5707963267948966,
+            "theta": 1.5707963267948966,
             "qudit": [
                 "qudit_4"
             ],
@@ -440,7 +230,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -455,22 +245,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
-        },
-        {
-            "duration": 30,
-            "theta": -1.5707963267948966,
-            "qudit": [
-                "qudit_2"
-            ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -481,11 +256,26 @@
             "qudit": [
                 "qudit_2"
             ],
+            "gate": "RYGate",
+            "pulse": {
+                "y_drive": {
+                    "sigma": 7.5,
+                    "amp": -0.01556915187994301,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 1.5707963267948966,
+            "qudit": [
+                "qudit_2"
+            ],
             "gate": "RXGate",
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -500,7 +290,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -515,7 +305,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -530,7 +320,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -545,7 +335,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -560,7 +350,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -575,7 +365,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -590,7 +380,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -635,14 +425,14 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": -0.01556915187994301,
                     "type": "gaussian"
                 }
             }
         },
         {
             "duration": 30,
-            "theta": 1.5707963267948966,
+            "theta": -1.5707963267948966,
             "qudit": [
                 "qudit_4"
             ],
@@ -650,7 +440,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": -0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -665,7 +455,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -680,14 +470,14 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": -0.01556915187994301,
                     "type": "gaussian"
                 }
             }
         },
         {
             "duration": 30,
-            "theta": 1.5707963267948966,
+            "theta": -1.5707963267948966,
             "qudit": [
                 "qudit_2"
             ],
@@ -695,22 +485,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
-        },
-        {
-            "duration": 30,
-            "theta": 1.5707963267948966,
-            "qudit": [
-                "qudit_2"
-            ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": -0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -725,7 +500,22 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 1.5707963267948966,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RYGate",
+            "pulse": {
+                "y_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -740,7 +530,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -755,7 +545,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -770,7 +560,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -785,7 +575,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -800,7 +590,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -845,14 +635,14 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": -0.01556915187994301,
                     "type": "gaussian"
                 }
             }
         },
         {
             "duration": 30,
-            "theta": -1.5707963267948966,
+            "theta": 1.5707963267948966,
             "qudit": [
                 "qudit_4"
             ],
@@ -860,7 +650,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -875,22 +665,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
-        },
-        {
-            "duration": 30,
-            "theta": -1.5707963267948966,
-            "qudit": [
-                "qudit_2"
-            ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -901,11 +676,26 @@
             "qudit": [
                 "qudit_2"
             ],
+            "gate": "RYGate",
+            "pulse": {
+                "y_drive": {
+                    "sigma": 7.5,
+                    "amp": -0.01556915187994301,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 1.5707963267948966,
+            "qudit": [
+                "qudit_2"
+            ],
             "gate": "RXGate",
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -920,7 +710,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -935,7 +725,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -950,7 +740,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -965,7 +755,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -980,7 +770,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -995,7 +785,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -1010,7 +800,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -1055,14 +845,14 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": -0.01556915187994301,
                     "type": "gaussian"
                 }
             }
         },
         {
             "duration": 30,
-            "theta": 1.5707963267948966,
+            "theta": -1.5707963267948966,
             "qudit": [
                 "qudit_4"
             ],
@@ -1070,7 +860,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": -0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -1085,7 +875,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -1100,14 +890,14 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": -0.01556915187994301,
                     "type": "gaussian"
                 }
             }
         },
         {
             "duration": 30,
-            "theta": 1.5707963267948966,
+            "theta": -1.5707963267948966,
             "qudit": [
                 "qudit_2"
             ],
@@ -1115,22 +905,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
-        },
-        {
-            "duration": 30,
-            "theta": 1.5707963267948966,
-            "qudit": [
-                "qudit_2"
-            ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": -0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -1145,7 +920,22 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 1.5707963267948966,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RYGate",
+            "pulse": {
+                "y_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -1160,7 +950,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -1175,7 +965,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -1190,7 +980,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -1205,7 +995,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -1220,7 +1010,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -1265,14 +1055,14 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": -0.01556915187994301,
                     "type": "gaussian"
                 }
             }
         },
         {
             "duration": 30,
-            "theta": -1.5707963267948966,
+            "theta": 1.5707963267948966,
             "qudit": [
                 "qudit_4"
             ],
@@ -1280,7 +1070,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -1295,22 +1085,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
-        },
-        {
-            "duration": 30,
-            "theta": -1.5707963267948966,
-            "qudit": [
-                "qudit_2"
-            ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -1321,11 +1096,26 @@
             "qudit": [
                 "qudit_2"
             ],
+            "gate": "RYGate",
+            "pulse": {
+                "y_drive": {
+                    "sigma": 7.5,
+                    "amp": -0.01556915187994301,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 1.5707963267948966,
+            "qudit": [
+                "qudit_2"
+            ],
             "gate": "RXGate",
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -1340,7 +1130,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -1355,7 +1145,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -1370,7 +1160,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -1385,7 +1175,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -1400,7 +1190,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -1415,7 +1205,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -1430,7 +1220,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -1475,14 +1265,14 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": -0.01556915187994301,
                     "type": "gaussian"
                 }
             }
         },
         {
             "duration": 30,
-            "theta": 1.5707963267948966,
+            "theta": -1.5707963267948966,
             "qudit": [
                 "qudit_4"
             ],
@@ -1490,7 +1280,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": -0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -1505,7 +1295,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -1520,14 +1310,14 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": -0.01556915187994301,
                     "type": "gaussian"
                 }
             }
         },
         {
             "duration": 30,
-            "theta": 1.5707963267948966,
+            "theta": -1.5707963267948966,
             "qudit": [
                 "qudit_2"
             ],
@@ -1535,22 +1325,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
-        },
-        {
-            "duration": 30,
-            "theta": 1.5707963267948966,
-            "qudit": [
-                "qudit_2"
-            ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": -0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -1565,7 +1340,22 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 1.5707963267948966,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RYGate",
+            "pulse": {
+                "y_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -1580,7 +1370,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -1595,7 +1385,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -1610,7 +1400,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -1625,7 +1415,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -1640,7 +1430,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -1685,14 +1475,14 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": -0.01556915187994301,
                     "type": "gaussian"
                 }
             }
         },
         {
             "duration": 30,
-            "theta": -1.5707963267948966,
+            "theta": 1.5707963267948966,
             "qudit": [
                 "qudit_4"
             ],
@@ -1700,7 +1490,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -1715,22 +1505,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
-        },
-        {
-            "duration": 30,
-            "theta": -1.5707963267948966,
-            "qudit": [
-                "qudit_2"
-            ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -1741,11 +1516,26 @@
             "qudit": [
                 "qudit_2"
             ],
+            "gate": "RYGate",
+            "pulse": {
+                "y_drive": {
+                    "sigma": 7.5,
+                    "amp": -0.01556915187994301,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 1.5707963267948966,
+            "qudit": [
+                "qudit_2"
+            ],
             "gate": "RXGate",
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -1760,7 +1550,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -1775,7 +1565,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -1790,7 +1580,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -1805,7 +1595,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -1820,7 +1610,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -1835,7 +1625,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -1850,7 +1640,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -1895,14 +1685,14 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": -0.01556915187994301,
                     "type": "gaussian"
                 }
             }
         },
         {
             "duration": 30,
-            "theta": 1.5707963267948966,
+            "theta": -1.5707963267948966,
             "qudit": [
                 "qudit_4"
             ],
@@ -1910,7 +1700,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": -0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -1925,7 +1715,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -1940,14 +1730,14 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": -0.01556915187994301,
                     "type": "gaussian"
                 }
             }
         },
         {
             "duration": 30,
-            "theta": 1.5707963267948966,
+            "theta": -1.5707963267948966,
             "qudit": [
                 "qudit_2"
             ],
@@ -1955,22 +1745,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
-        },
-        {
-            "duration": 30,
-            "theta": 1.5707963267948966,
-            "qudit": [
-                "qudit_2"
-            ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": -0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -1985,7 +1760,22 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 1.5707963267948966,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RYGate",
+            "pulse": {
+                "y_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -2000,7 +1790,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -2015,7 +1805,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -2030,7 +1820,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -2045,7 +1835,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -2060,7 +1850,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -2105,14 +1895,14 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": -0.01556915187994301,
                     "type": "gaussian"
                 }
             }
         },
         {
             "duration": 30,
-            "theta": -1.5707963267948966,
+            "theta": 1.5707963267948966,
             "qudit": [
                 "qudit_4"
             ],
@@ -2120,7 +1910,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -2135,22 +1925,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
-        },
-        {
-            "duration": 30,
-            "theta": -1.5707963267948966,
-            "qudit": [
-                "qudit_2"
-            ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -2161,11 +1936,26 @@
             "qudit": [
                 "qudit_2"
             ],
+            "gate": "RYGate",
+            "pulse": {
+                "y_drive": {
+                    "sigma": 7.5,
+                    "amp": -0.01556915187994301,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 1.5707963267948966,
+            "qudit": [
+                "qudit_2"
+            ],
             "gate": "RXGate",
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -2180,7 +1970,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -2195,7 +1985,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -2210,7 +2000,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -2225,7 +2015,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -2240,7 +2030,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -2255,7 +2045,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -2270,7 +2060,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -2315,14 +2105,14 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": -0.01556915187994301,
                     "type": "gaussian"
                 }
             }
         },
         {
             "duration": 30,
-            "theta": 1.5707963267948966,
+            "theta": -1.5707963267948966,
             "qudit": [
                 "qudit_4"
             ],
@@ -2330,7 +2120,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": -0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -2345,7 +2135,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -2360,14 +2150,14 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": -0.01556915187994301,
                     "type": "gaussian"
                 }
             }
         },
         {
             "duration": 30,
-            "theta": 1.5707963267948966,
+            "theta": -1.5707963267948966,
             "qudit": [
                 "qudit_2"
             ],
@@ -2375,22 +2165,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
-        },
-        {
-            "duration": 30,
-            "theta": 1.5707963267948966,
-            "qudit": [
-                "qudit_2"
-            ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": -0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -2405,7 +2180,22 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 1.5707963267948966,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RYGate",
+            "pulse": {
+                "y_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -2420,7 +2210,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -2435,7 +2225,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -2450,7 +2240,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -2465,7 +2255,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -2480,7 +2270,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -2525,14 +2315,14 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": -0.01556915187994301,
                     "type": "gaussian"
                 }
             }
         },
         {
             "duration": 30,
-            "theta": -1.5707963267948966,
+            "theta": 1.5707963267948966,
             "qudit": [
                 "qudit_4"
             ],
@@ -2540,7 +2330,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -2555,22 +2345,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
-        },
-        {
-            "duration": 30,
-            "theta": -1.5707963267948966,
-            "qudit": [
-                "qudit_2"
-            ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -2581,11 +2356,26 @@
             "qudit": [
                 "qudit_2"
             ],
+            "gate": "RYGate",
+            "pulse": {
+                "y_drive": {
+                    "sigma": 7.5,
+                    "amp": -0.01556915187994301,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 1.5707963267948966,
+            "qudit": [
+                "qudit_2"
+            ],
             "gate": "RXGate",
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -2600,7 +2390,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -2615,7 +2405,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -2630,7 +2420,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -2645,7 +2435,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -2660,7 +2450,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -2675,7 +2465,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -2690,7 +2480,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -2735,14 +2525,14 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": -0.01556915187994301,
                     "type": "gaussian"
                 }
             }
         },
         {
             "duration": 30,
-            "theta": 1.5707963267948966,
+            "theta": -1.5707963267948966,
             "qudit": [
                 "qudit_4"
             ],
@@ -2750,7 +2540,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": -0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -2765,7 +2555,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -2780,14 +2570,14 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": -0.01556915187994301,
                     "type": "gaussian"
                 }
             }
         },
         {
             "duration": 30,
-            "theta": 1.5707963267948966,
+            "theta": -1.5707963267948966,
             "qudit": [
                 "qudit_2"
             ],
@@ -2795,22 +2585,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
-        },
-        {
-            "duration": 30,
-            "theta": 1.5707963267948966,
-            "qudit": [
-                "qudit_2"
-            ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": -0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -2825,7 +2600,22 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 1.5707963267948966,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RYGate",
+            "pulse": {
+                "y_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -2840,7 +2630,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -2855,7 +2645,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -2870,7 +2660,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -2885,7 +2675,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -2900,7 +2690,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -2945,14 +2735,14 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": -0.01556915187994301,
                     "type": "gaussian"
                 }
             }
         },
         {
             "duration": 30,
-            "theta": -1.5707963267948966,
+            "theta": 1.5707963267948966,
             "qudit": [
                 "qudit_4"
             ],
@@ -2960,7 +2750,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -2975,22 +2765,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
-        },
-        {
-            "duration": 30,
-            "theta": -1.5707963267948966,
-            "qudit": [
-                "qudit_2"
-            ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -3001,11 +2776,26 @@
             "qudit": [
                 "qudit_2"
             ],
+            "gate": "RYGate",
+            "pulse": {
+                "y_drive": {
+                    "sigma": 7.5,
+                    "amp": -0.01556915187994301,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 1.5707963267948966,
+            "qudit": [
+                "qudit_2"
+            ],
             "gate": "RXGate",
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -3020,7 +2810,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -3035,7 +2825,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -3050,7 +2840,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -3065,7 +2855,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -3080,7 +2870,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -3095,7 +2885,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -3110,7 +2900,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -3155,14 +2945,14 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": -0.01556915187994301,
                     "type": "gaussian"
                 }
             }
         },
         {
             "duration": 30,
-            "theta": 1.5707963267948966,
+            "theta": -1.5707963267948966,
             "qudit": [
                 "qudit_4"
             ],
@@ -3170,7 +2960,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": -0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -3185,7 +2975,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -3200,14 +2990,14 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": -0.01556915187994301,
                     "type": "gaussian"
                 }
             }
         },
         {
             "duration": 30,
-            "theta": 1.5707963267948966,
+            "theta": -1.5707963267948966,
             "qudit": [
                 "qudit_2"
             ],
@@ -3215,22 +3005,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
-        },
-        {
-            "duration": 30,
-            "theta": 1.5707963267948966,
-            "qudit": [
-                "qudit_2"
-            ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": -0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -3245,7 +3020,22 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 1.5707963267948966,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RYGate",
+            "pulse": {
+                "y_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -3260,7 +3050,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -3275,7 +3065,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -3290,7 +3080,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -3305,7 +3095,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -3320,7 +3110,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -3365,14 +3155,14 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": -0.01556915187994301,
                     "type": "gaussian"
                 }
             }
         },
         {
             "duration": 30,
-            "theta": -1.5707963267948966,
+            "theta": 1.5707963267948966,
             "qudit": [
                 "qudit_4"
             ],
@@ -3380,7 +3170,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -3395,22 +3185,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
-        },
-        {
-            "duration": 30,
-            "theta": -1.5707963267948966,
-            "qudit": [
-                "qudit_2"
-            ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -3421,11 +3196,26 @@
             "qudit": [
                 "qudit_2"
             ],
+            "gate": "RYGate",
+            "pulse": {
+                "y_drive": {
+                    "sigma": 7.5,
+                    "amp": -0.01556915187994301,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 1.5707963267948966,
+            "qudit": [
+                "qudit_2"
+            ],
             "gate": "RXGate",
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -3440,7 +3230,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -3455,7 +3245,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -3470,7 +3260,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -3485,7 +3275,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -3500,7 +3290,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -3515,7 +3305,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -3530,7 +3320,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -3575,14 +3365,14 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": -0.01556915187994301,
                     "type": "gaussian"
                 }
             }
         },
         {
             "duration": 30,
-            "theta": 1.5707963267948966,
+            "theta": -1.5707963267948966,
             "qudit": [
                 "qudit_4"
             ],
@@ -3590,7 +3380,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": -0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -3605,7 +3395,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -3620,14 +3410,14 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": -0.01556915187994301,
                     "type": "gaussian"
                 }
             }
         },
         {
             "duration": 30,
-            "theta": 1.5707963267948966,
+            "theta": -1.5707963267948966,
             "qudit": [
                 "qudit_2"
             ],
@@ -3635,22 +3425,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
-        },
-        {
-            "duration": 30,
-            "theta": 1.5707963267948966,
-            "qudit": [
-                "qudit_2"
-            ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": -0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -3665,7 +3440,22 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 1.5707963267948966,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RYGate",
+            "pulse": {
+                "y_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -3680,7 +3470,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -3695,7 +3485,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -3710,7 +3500,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -3725,7 +3515,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -3740,7 +3530,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -3785,14 +3575,14 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": -0.01556915187994301,
                     "type": "gaussian"
                 }
             }
         },
         {
             "duration": 30,
-            "theta": -1.5707963267948966,
+            "theta": 1.5707963267948966,
             "qudit": [
                 "qudit_4"
             ],
@@ -3800,7 +3590,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -3815,22 +3605,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
-        },
-        {
-            "duration": 30,
-            "theta": -1.5707963267948966,
-            "qudit": [
-                "qudit_2"
-            ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -3841,11 +3616,26 @@
             "qudit": [
                 "qudit_2"
             ],
+            "gate": "RYGate",
+            "pulse": {
+                "y_drive": {
+                    "sigma": 7.5,
+                    "amp": -0.01556915187994301,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 1.5707963267948966,
+            "qudit": [
+                "qudit_2"
+            ],
             "gate": "RXGate",
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -3860,7 +3650,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -3875,7 +3665,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -3890,7 +3680,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -3905,7 +3695,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -3920,7 +3710,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -3935,7 +3725,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -3950,7 +3740,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -3995,14 +3785,14 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": -0.01556915187994301,
                     "type": "gaussian"
                 }
             }
         },
         {
             "duration": 30,
-            "theta": 1.5707963267948966,
+            "theta": -1.5707963267948966,
             "qudit": [
                 "qudit_4"
             ],
@@ -4010,7 +3800,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": -0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -4025,7 +3815,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -4040,14 +3830,14 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": -0.01556915187994301,
                     "type": "gaussian"
                 }
             }
         },
         {
             "duration": 30,
-            "theta": 1.5707963267948966,
+            "theta": -1.5707963267948966,
             "qudit": [
                 "qudit_2"
             ],
@@ -4055,22 +3845,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
-        },
-        {
-            "duration": 30,
-            "theta": 1.5707963267948966,
-            "qudit": [
-                "qudit_2"
-            ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": -0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -4085,7 +3860,22 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 1.5707963267948966,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RYGate",
+            "pulse": {
+                "y_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -4100,7 +3890,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -4115,7 +3905,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -4130,7 +3920,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -4145,7 +3935,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -4160,7 +3950,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -4205,7 +3995,217 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
+                    "amp": -0.01556915187994301,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 1.5707963267948966,
+            "qudit": [
+                "qudit_4"
+            ],
+            "gate": "RXGate",
+            "pulse": {
+                "x_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.01556915187994301,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 1.5707963267948966,
+            "qudit": [
+                "qudit_4"
+            ],
+            "gate": "RYGate",
+            "pulse": {
+                "y_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.01556915187994301,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": -1.5707963267948966,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RYGate",
+            "pulse": {
+                "y_drive": {
+                    "sigma": 7.5,
+                    "amp": -0.01556915187994301,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 1.5707963267948966,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RXGate",
+            "pulse": {
+                "x_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.01556915187994301,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 1.5707963267948966,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RYGate",
+            "pulse": {
+                "y_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.01556915187994301,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 1.5707963267948966,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RYGate",
+            "pulse": {
+                "y_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.01556915187994301,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 1.5707963267948966,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RXGate",
+            "pulse": {
+                "x_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.01556915187994301,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 1.5707963267948966,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RXGate",
+            "pulse": {
+                "x_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.01556915187994301,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 1.5707963267948966,
+            "qudit": [
+                "qudit_4"
+            ],
+            "gate": "RYGate",
+            "pulse": {
+                "y_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.01556915187994301,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 1.5707963267948966,
+            "qudit": [
+                "qudit_4"
+            ],
+            "gate": "RXGate",
+            "pulse": {
+                "x_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.01556915187994301,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 1.5707963267948966,
+            "qudit": [
+                "qudit_4"
+            ],
+            "gate": "RXGate",
+            "pulse": {
+                "x_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.01556915187994301,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 3.141592653589793,
+            "qudit": [
+                "qudit_2"
+            ],
+            "gate": "RZGate",
+            "pulse": {
+                "z_drive": {
+                    "sigma": 7.5,
                     "amp": 0.03113830375988602,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": 3.141592653589793,
+            "qudit": [
+                "qudit_4"
+            ],
+            "gate": "RZGate",
+            "pulse": {
+                "z_drive": {
+                    "sigma": 7.5,
+                    "amp": 0.03113830375988602,
+                    "type": "gaussian"
+                }
+            }
+        },
+        {
+            "duration": 30,
+            "theta": -1.5707963267948966,
+            "qudit": [
+                "qudit_4"
+            ],
+            "gate": "RYGate",
+            "pulse": {
+                "y_drive": {
+                    "sigma": 7.5,
+                    "amp": -0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -4220,7 +4220,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": -0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -4235,7 +4235,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -4250,7 +4250,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": -0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -4265,7 +4265,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": -0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -4280,7 +4280,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -4295,7 +4295,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -4310,7 +4310,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -4325,7 +4325,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -4340,7 +4340,7 @@
             "pulse": {
                 "y_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -4355,7 +4355,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -4370,7 +4370,7 @@
             "pulse": {
                 "x_drive": {
                     "sigma": 7.5,
-                    "amp": 0.03113830375988602,
+                    "amp": 0.01556915187994301,
                     "type": "gaussian"
                 }
             }
@@ -8031,18 +8031,43 @@
                 "state"
             ],
             "times": [
-                30,
-                150,
-                270,
-                390,
-                510,
-                630,
-                750,
-                870,
-                990,
-                1110,
-                1230,
-                1260
+                0,
+                120,
+                240,
+                360,
+                480,
+                600,
+                720,
+                840,
+                960,
+                1080,
+                1200,
+                1320,
+                1440,
+                1560,
+                1680,
+                1800,
+                1920,
+                2040,
+                2160,
+                2280,
+                2400,
+                2520,
+                2640,
+                2760,
+                2880,
+                3000,
+                3120,
+                3240,
+                3360,
+                3480,
+                3600,
+                3720,
+                3840,
+                3960,
+                4080,
+                4200,
+                4320
             ]
         },
         "int_atol": 1e-06,
