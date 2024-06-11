@@ -4393,6483 +4393,3459 @@
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_1"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_3"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RXGate",
-            "pulse": {
-                "x_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         },
         {
             "duration": 30,
-            "theta": 3.141592653589793,
             "qudit": [
                 "qudit_5"
             ],
-            "gate": "RYGate",
-            "pulse": {
-                "y_drive": {
-                    "sigma": 7.5,
-                    "amp": 0.03113830375988602,
-                    "type": "gaussian"
-                }
-            }
+            "gate": "IGate",
+            "pulse": {}
         }
     ],
     "qudits_config": {
