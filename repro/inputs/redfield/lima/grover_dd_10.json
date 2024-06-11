@@ -10875,7 +10875,7 @@
     "qudits_config": {
         "qudit_5": {
             "num_lvls": 2,
-            "driving_freq": 5.092,
+            "driving_freq": 5.0920,
             "anharmonicity": -0.3345,
             "interaction": [
                 {
@@ -10906,7 +10906,7 @@
                     }
                 }
             ],
-            "freq": 5.092
+            "freq": 5.0920
         },
         "qudit_4": {
             "num_lvls": 2,
